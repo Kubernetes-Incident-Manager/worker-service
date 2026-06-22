@@ -3,3 +3,5 @@ redis
 sqlalchemy
 psycopg2-binary
 openai
+urllib3>=2.2.3
+cryptography>=44.0.0
